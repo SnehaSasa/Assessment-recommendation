@@ -1,0 +1,8 @@
+python 3.10.0 MUST BE INSTALLED
+
+
+1. open assessment_recommender folder in VS Code
+2. open terminal
+3. type ".\venv\Scripts\activate "
+4. type "streamlit run app.py"
+
